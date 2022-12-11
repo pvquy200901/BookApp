@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="ho_c_ng_k_t_i_y"><b>Hoặc đăng kí tại đây...</b></string>
+    <string name="ho_c_ng_nh_p"><b>Hoặc đăng nhập...</b></string>
+</resources>

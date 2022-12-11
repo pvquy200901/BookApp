@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53230868797",
+    "project_id": "boop-app-495a2",
+    "storage_bucket": "boop-app-495a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53230868797:android:38b412204abf49fdd04d54",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53230868797-hcca0kam8498e9d950et459ie5849se8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "7e714dde1e87c3c80d8c1391b4f00c9372e7553c"
+          }
+        },
+        {
+          "client_id": "53230868797-7nkdp7vib0ne8j5qkos9hdre5uhbuj4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFG8wPP3XgbCtwCxRDQmN5eZXLtZp7Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53230868797-7nkdp7vib0ne8j5qkos9hdre5uhbuj4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
